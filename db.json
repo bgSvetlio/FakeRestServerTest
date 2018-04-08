@@ -1,6 +1,6 @@
 {
   "name": "John",
-  "age": 30,
+  "age": "30",
   "car": "Fiat",
-  "sex": "M"
+  "sexo": "M"
 } 
