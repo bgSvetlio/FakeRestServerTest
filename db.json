@@ -1,8 +1,5 @@
 {
   "person": {
-    {"name": "John"},
-    {"age": "30"},
-    {"car": "Fiat"},
-    {"sexo": "M"}
+    "name": "John"
   }
 } 
